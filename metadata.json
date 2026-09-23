@@ -1,0 +1,6 @@
+{
+  "name": "Boss Gee Furniture",
+  "description": "Built Strong. Crafted to Last. Premium Steel and Wood Furniture for Homes, Offices, and Businesses in Zimbabwe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
